@@ -37,3 +37,19 @@ For the needs of the project, a specially designed chassis system was designed w
   <em>Fig. 9: Steering trapeze animation</em>
 </p>
 
+<p align="center">
+  <img src="./gif/chasis.gif" alt="Animation of working chasis" width="500"/>
+  <br>
+  <em>Fig. 10: Animation of working chasis</em>
+</p>
+
+<h3>3. Block lifting system.</h3>
+
+The block lifting system consisted of forks like in a forklift truck and a servo drive that powered a 3D printed worm gear.
+<p align="center">
+  <img src="github.com/user-attachments/assets/f1de06b9-2263-4b67-b7e3-d60c984f06c4" alt="Fig. 11: Worm gear and forks" width="500"/>
+  <br>
+  <em>Fig. 11: Worm gear and forks</em>
+</p>
+
+
