@@ -4,5 +4,6 @@ The RC car was created for the competition at the Gdańsk University of Technolo
 - negotiate a bend with an external radius of 200 mm,
 - drive with a load along a straight section of road two meters long at a speed of at least 0.5 m/s,
 - unload the block onto the indicated field with a platform,
-- open the garage with a special button and at the end — park in this garage backwards. A total of 135 points were up for grabs. 
+- open the garage with a special button and at the end — park in this garage backwards. A total of 135 points were up for grabs.
+<br>
 The appearance of the designed car also counted in the competition
