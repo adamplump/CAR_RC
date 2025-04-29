@@ -1,4 +1,4 @@
-The RC car was created for the competition at the Gdańsk University of Technology. Each team had to drive a designed remote-controlled car through an obstacle course created on the day of the competition and complete the following tasks:
+The RC car was created for the competition at the Gdańsk University of Technology 2021/2022. Each team had to drive a designed remote-controlled car through an obstacle course created on the day of the competition and complete the following tasks:
 - start from a standstill and drive to the loading area, load an aluminum block measuring 50x50x50 mm and drive with it over a ramp,
 - drive over uneven ground made of pebbles,
 - negotiate a bend with an external radius of 200 mm,
