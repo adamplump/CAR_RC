@@ -61,12 +61,12 @@ Simple electronic circuit was designed to steering two servo motors and solenoid
   <em>Fig. 12: Electronic circuit</em>
 </p>
 
-<h3>5. Driving tests.</h3>
+<h3>5. Driving test.</h3>
 
 <p align="center">
   <img src="./gif/driving.gif" alt="Animation of working chasis" width="500"/>
   <br>
-  <em>Fig. 10: Animation of working chasis</em>
+  <em>Fig. 13: Driving test</em>
 </p>
 
 
