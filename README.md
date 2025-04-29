@@ -18,9 +18,16 @@ Most of the elements were designed for 3D printing and the remaining parts were 
 
 <h3>2. Body and chassis components.</h3>
 For the needs of the project, a specially designed chassis system was designed with shock absorbers, a differential mechanism, a steering trapezoid and planetary gears in the wheels as well as on the engine shaft (due to the engine's excessive power in relation to what was needed even with minimal control of its speed)
-![image](https://github.com/user-attachments/assets/b7eeda71-e70c-4e1f-a313-28f95eca39bb)
 
 | ![Fig. 3: 3D model of body](https://github.com/user-attachments/assets/b7eeda71-e70c-4e1f-a313-28f95eca39bb) | ![Fig. 4: Partial assembly of the chassis with space for the differential](https://github.com/user-attachments/assets/22a7d113-c2c3-4a06-84ea-714afa5dcaba) |
 |:--:|:--:|
 | *Fig. 3: 3D model of body* | *Fig. 4: Partial assembly of the chassis with space for the differential* |
+
+| ![Fig. 5: 3D model of the differential mechanism](https://github.com/user-attachments/assets/5cfa08e0-9f95-4b5d-a57b-f4cf245af8ca) | ![Fig. 6: Differential mechanism](https://github.com/user-attachments/assets/a50f6413-222a-49ab-a5ea-9343393a3797) |
+|:--:|:--:|
+| *Fig. 5: 3D model of the differential mechanism* | *Fig. 6: Differential mechanism* |
+
+| ![Fig. 7: Assembled chassis part](https://github.com/user-attachments/assets/187ece32-c602-4e4f-bfa8-d86fa0a1bee3) | ![Fig. 8: Wheel assembly on 3D model](https://github.com/user-attachments/assets/3c431538-55f2-4a42-9e4e-88b287fd937a) |
+|:--:|:--:|
+| *Fig. 7: Assembled chassis part* | *Fig. 8: Wheel assembly on 3D model* |
 
