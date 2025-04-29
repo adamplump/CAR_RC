@@ -31,3 +31,7 @@ For the needs of the project, a specially designed chassis system was designed w
 |:--:|:--:|
 | *Fig. 7: Assembled chassis part* | *Fig. 8: Wheel assembly on 3D model* |
 
+<p align="center">
+  <img src="./gif/steering_trapeze.gif" alt="Steering trapeze" width="500"/>
+</p>
+
