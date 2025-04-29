@@ -23,7 +23,7 @@ For the needs of the project, a specially designed chassis system was designed w
 |:--:|:--:|
 | *Fig. 3: 3D model of body* | *Fig. 4: Partial assembly of the chassis with space for the differential* |
 
-| ![Fig. 5: 3D model of the differential mechanism](https://github.com/user-attachments/assets/5cfa08e0-9f95-4b5d-a57b-f4cf245af8ca) | ![Fig. 6: Differential mechanism](https://github.com/user-attachments/assets/a50f6413-222a-49ab-a5ea-9343393a3797) |
+| ![Fig. 5: 3D model of the planetary gear in wheel](https://github.com/user-attachments/assets/3dc745c1-b017-4cd5-87f6-424e7cb213c0) | ![Fig. 6: Differential mechanism](https://github.com/user-attachments/assets/a50f6413-222a-49ab-a5ea-9343393a3797) |
 |:--:|:--:|
 | *Fig. 5: 3D model of the differential mechanism* | *Fig. 6: Differential mechanism* |
 
