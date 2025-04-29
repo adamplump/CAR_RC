@@ -8,7 +8,8 @@ The RC car was created for the competition at the Gdańsk University of Technolo
 <br>
 The appearance of the designed car also counted in the competition.
 
-<h3>1. RC car designed.</h3>
+<h3>1. Remote controlled car designed.</h3>
+
 | ![Fig. 1: Presentation of RC car](https://github.com/user-attachments/assets/ca4e1d6f-1040-44e6-b4a3-bb7e2663a3d6) | ![Fig. 2: RC car on track](https://github.com/user-attachments/assets/a4432285-a717-46c8-a13d-7454f81ec548) |
 |:--:|:--:|
 | *Fig. 1: Presentation of RC car* | *Fig. 2: RC car on track* |
