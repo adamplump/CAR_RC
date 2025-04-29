@@ -48,7 +48,7 @@ For the needs of the project, a specially designed chassis system was designed w
 The block lifting system consisted of forks like in a forklift truck and a servo drive that powered a 3D printed worm gear.
 
 <p align="center">
-  <img src="github.com/user-attachments/assets/f1de06b9-2263-4b67-b7e3-d60c984f06c4" alt="Fig. 11: Worm gear and forks" width="500"/>
+  <img src="https://github.com/user-attachments/assets/7d79fe91-65ae-4b48-a5bd-826712150086" alt="Fig. 11: Worm gear and forks" width="500"/>
   <br>
   <em>Fig. 11: Worm gear and forks</em>
 </p>
