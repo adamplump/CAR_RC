@@ -33,5 +33,7 @@ For the needs of the project, a specially designed chassis system was designed w
 
 <p align="center">
   <img src="./gif/steering_trapeze.gif" alt="Steering trapeze" width="500"/>
+  <br>
+  <em>Fig. 9: Steering trapeze animation</em>
 </p>
 
