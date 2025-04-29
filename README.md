@@ -44,9 +44,7 @@ For the needs of the project, a specially designed chassis system was designed w
 </p>
 
 <h3>3. Block lifting system.</h3>
-
 The block lifting system consisted of forks like in a forklift truck and a servo drive that powered a 3D printed worm gear.
-![image](https://github.com/user-attachments/assets/3b4b4fc1-ae3a-4422-bad5-690f87e07397)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7d79fe91-65ae-4b48-a5bd-826712150086" alt="Fig. 11: Worm gear and forks" width="500"/>
@@ -55,7 +53,7 @@ The block lifting system consisted of forks like in a forklift truck and a servo
 </p>
 
 <h3>4. Electronic circuit.</h3>
-Simple electronic circuit was designe to steering two servomotors and solenoid.
+Simple electronic circuit was designed to steering two servo motors and solenoid.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c91d01a-017d-42e7-a84b-8e1742bf751d" alt="Fig. 12: Electronic circuit" width="500"/>
